@@ -1,0 +1,15 @@
+# fastapi
+# uvicorn[standard]
+# pymongo
+# python-dotenv
+# sentence-transformers
+# numpy
+# google-genai
+
+fastapi
+uvicorn[standard]
+httpx
+motor
+python-dotenv
+sentence-transformers
+faiss-cpu

@@ -1,0 +1,15 @@
+# fastapi
+# uvicorn[standard]
+# python-multipart
+# aiofiles
+# motor
+# httpx
+# pydantic
+
+fastapi
+uvicorn[standard]
+python-multipart
+motor
+httpx
+python-dotenv
+pydantic
